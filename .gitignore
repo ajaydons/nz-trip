@@ -1,0 +1,4 @@
+# The unencrypted guide never leaves your computer
+source/
+.encrypt-tmp/
+.DS_Store
