@@ -1,5 +1,5 @@
 /* NZ Trip guide – offline service worker. Version is stamped by build.mjs on every build. */
-const VERSION = "de5b341cb7dc";
+const VERSION = "cee8931c1623";
 const CACHE = "nz-trip-" + VERSION;
 const CORE = [
   "./", "./index.html", "./manifest.webmanifest",
